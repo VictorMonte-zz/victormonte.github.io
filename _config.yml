@@ -1,3 +1,4 @@
 name: Victor Monte
 markdown: kramdown
+theme: minima
 permalink: /blog/:year/:month/:day/:title
