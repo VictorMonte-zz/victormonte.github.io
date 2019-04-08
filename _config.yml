@@ -1,4 +1,4 @@
 name: Victor Monte
 markdown: kramdown
-theme: minima
+remote_theme: haacked/haackbar
 permalink: /blog/:year/:month/:day/:title
