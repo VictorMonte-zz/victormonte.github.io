@@ -2,7 +2,7 @@ remote_theme: haacked/haackbar
 title: There is no spoon 
 subtitle: ...just code
 author: Victor Monte
-avatar_url: /assets/img/victor.jpg  # Should be 160x160px.
+avatar_url: /assets/img/victor.png  # Should be 160x160px.
 description: > # this means to ignore newlines until "twitter_username:"
   Blog about programming and system design.
 repository: haacked/haackbar
