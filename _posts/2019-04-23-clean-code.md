@@ -3,9 +3,9 @@ title: Clean code
 tags: [book, programming, cleancode]
 ---
 
-![clean-code](/assets/img/galaxy.jpeg){:height="300px" width="700px"}
-
 Initially, I believe that ever knowledge should help you, whether you are prepared to understand/use or not. Also, I couldn't achieve this conclusion about the book without reading it. So, I'm writing my opinion after finished the book.
+
+![clean-code](/assets/img/galaxy.jpeg){:height="300px" width="700px"}
 
 # Why should you read ?
 
