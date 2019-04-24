@@ -38,4 +38,4 @@ There is a structure created by Martin that enumerates the good practices and he
 * Java
 * Tests
 
-It also adds some information about Domain Driven Design, Test Driven Development, Dont Repeat Yourself(DRY) and more. It's not so deep into these subjects but it makes a good link between all of them and the Clean Code. The relations between them and the develivery of business value.
+It also adds some information about Domain Driven Design, Test Driven Development, DRY(Dont't Repeat Yourself) and more. It's not so deep into these subjects but it makes a good link between all of them and the Clean Code. The relations between them and the delivery of business value.
